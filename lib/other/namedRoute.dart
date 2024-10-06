@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'Custom Widget/customUI.dart';
+import '../Custom Widget/customUI.dart';
 import 'gridviewbuilder.dart';
 
 void main() {

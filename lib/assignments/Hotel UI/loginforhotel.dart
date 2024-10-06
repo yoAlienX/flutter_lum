@@ -2,7 +2,9 @@ import 'package:firstproject/assignments/Hotel%20UI/hotelreg.dart';
 import 'package:firstproject/assignments/Hotel%20UI/hoteluimain.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
+// void main() {
+//   runApp(MaterialApp(home: Hotellogin(),));
+// }
 class Hotellogin extends StatefulWidget {
   const Hotellogin({super.key});
 
